@@ -1,6 +1,8 @@
 html,body{
     width: 100%;
     height: auto;
+    color: white;
+    background-color: black;
 }
 
 .nav2-div a{
@@ -16,93 +18,195 @@ html,body{
     margin: 45px 0px 0px 0px;
     
 }
+
 .about{
     margin: 140px 0px 0px 200px;
+}
+.text{
+   font-size: 22px; 
+   font-weight: bold;
+}
+.desigination{
+  margin: -20px 0px 0px 0px;
+}
+.location{
+    margin: -30px 0px 0px 280px;
 }
 .text1{
     font-size: 46px;
     font-weight: bold;
 }
+.text2{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia;
+}
 .icon-1,.icon-2,.icon-3,.icon-4,.icon-5{
     width: 100px;
     height: 100p;
-    margin: -100px 0px 0px 800px;
+    margin: -180px 0px 0px 800px;
     position: absolute;
 }
 .icon-2{
-    margin: -180px 0px 0px 850px;
+    margin: -280px 0px 0px 870px;
 }
 .icon-3{
-    margin: -180px 0px 0px 950px;
+    margin: -290px 0px 0px 980px;
 }
 .icon-4{
-    margin: -200px 0px 0px 750px;
+    margin: -300px 0px 0px 755px;
 }.icon-5{
-    margin: -85px 0px 0px 900px;
+    margin: -185px 0px 0px 950px;
 }
 .icons4d{
     width: 650px;
     height: 500px;
     position: absolute;
-    margin: -300px 0px 0px 600px;
+    margin: -400px 0px 0px 600px;
 }
+/* ================== */
 .skills{
-    margin: 0px 0px 0px 200px;
+    margin: 200px 0px 0px 850px ;
+    height: 1000px;
 }
-.github-projects{
-    margin: 300px 0px 0px 200px;
+.text3{
+    position: absolute;
+    font-size: 56px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times;
+    font-style: italic;
+    margin: 200px 0px 0px 200px;
 }
+.text4{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times;
+    margin: 280px 0px 0px 230px;
+    position: absolute;
+}
+.html,.js,.learning{
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 25px;
 
-.gitimg{
-    width: 250px;
-    height: 80px;
-    margin: 100px 0px 0px 0px;
 }
-.gitimg1{
-    width: 200px;
+.cjs.learning{
+    position: absolute;
+}
+.js{
+    margin-top: 50px;
+}
+.learning{
+    margin-top: 50px;
+
+}
+.icon-6{
+width: 65px;
+height: 65px;
+margin: 5px 0px 0px 320px;
+}
+.icon-7,.icon-8{
+    width: 100px;
     height: 100px;
 }
-.text3 {
-    text-decoration: none;
-    color: black;
-    font-size: 40.5px;
-    font-weight:  bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: -20px 0px 0px 0px;
-   }
+.icon-7{
+    margin: 10px 0px 0px 15px;
+}
+.icon-8{
+    margin: 15px 0px 0px 295px;
+}
+.icon-9,.icon-10,.icon-11{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin: -730px 0px 0px 350px
+}
+.icon-10{
+    margin: -480px 0px 0px 200px
+}
+.icon-11{
+    margin: -480px 0px 0px 500px
+}
+.line1{
+    width: 3px;
+    height: 150px;
+    position: absolute;
+    background: linear-gradient(to bottom, indigo, purple);
+margin: -620px 0px 0px 330px;
+transform: rotate(30deg);
+}
+.line2{
+    width: 3px;
+    height: 150px;
+    position: absolute;
+    background: linear-gradient(to bottom, indigo, purple);
+margin: -620px 0px 0px 480px;
+transform: rotate(150deg);
+}
+/* ================== */
+.text5{
+    position: absolute;
+    font-size: 56px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times;
+    font-style: italic;
+    margin: -200px 0px 0px 200px;
+}
 .projects{
-    margin: -280px 0px 0px 200px;
-    width: 450px;
+    clear: both;
+    height: 400px;
+    margin: -100px 0px 0px 0px;
 }
 .project1,.project2{
     border: 1px solid black;
     width: 450px;
     height: 300px;
     border: none;
-    position: absolute;
-    margin-bottom: 50px;
     border-radius: 30px;
     box-shadow: 5px 10px 10.5px black;
+    position: absolute;
 }
-.project1:hover{
-    margin: -20px 0px 0px 0px;
-    transition: 0.3s;
-}
-.project2{
- margin: 380px 0px 0px 0px;
- transition: 0.3s;
+.project1{
+    margin:  25px 0px 0px 200px;
 
 }
-.project2:hover{
-    margin: 360px 0px 0px 0px;
+.project2{
+    margin:  25px 0px 0px 800px;
 }
+.project1:hover{
+    margin-top: -20px;
+    transition: 0.3s;
+}
+.project2:hover{
+    margin-top: -20px;
+ transition: 0.3s;
+}
+.text6{
+    font-size: 80px;
+    font-weight: bold;
+    margin: 100px 100px 100px 200px;
+}
+.connect{
+    width: 150px;
+    height: 50px;
+    border-radius: 35px;
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: turquoise;
+    box-shadow: 5px 10px 15px;
+    margin: -80px 0px 0px 670px;
+    position: absolute;
+}
+
+
 .contact{
-    border: 2px solid black;
-    width: 90%;
-    text-align: center;
+    border: 2px solid white;
+    width: 100%;
     height: 400px;
-    border: none;
+    /* border: none; */
     margin: 800px 0px 0px 0px;
+   
+     
 }
 .border{
     width: 45px;
@@ -116,22 +220,25 @@ html,body{
     border-radius:8px;
     position: relative;
 }
-.text4{
+/* .text4{
   font-size: 55px;
-  font-weight: bolder;
-  margin: 0px 0px 0px 100px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+  font-weight: bold;
+  margin: 50px 0px 0px 350px;
+  padding-top: 50px;
+  font-family: 'Times New Roman', Times, serif;
+   background: linear-gradient(to right, red, yellow);
+   
+} */
 .mailname{
     font-size: 18px;
-    margin: -38px 0px 0px 720px;
+    margin: -38px 0px 0px 740px;
     width: 0px;
     border: 1px solid black;
     overflow: hidden;
     border: none;
 }
 .social{
-    margin: 65px 0px 0px -70px;
+    margin: 65px 0px 0px 500px;
 }
 svg{
     box-shadow: 5px 10px 15px black;
@@ -142,8 +249,9 @@ border-radius: 18.5px;
 }
 #lin{
 border-radius: 5.5px;
-
+margin: 0px 0px 0px 100px;
 }
+
 
 
 
