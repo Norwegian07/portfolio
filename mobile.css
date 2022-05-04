@@ -1,0 +1,89 @@
+@media screen and (max-width:1000px) {
+.navmain-div a {
+    font-size: 55px;
+}
+.navmain-div {
+    margin: 80px 0px 0px 250px;
+    width: 100%;
+}
+.about{
+    text-align: center;
+    font-size: 60px;
+}
+.text{
+    font-size: 80px;
+    position: absolute;
+    margin: -50px 0px 0px 230px;
+}
+.desigination{
+    font-size: 50px;
+    position: absolute;
+    margin: 50px 0px 0px 170px;
+}
+.text1{
+position: absolute;
+    font-size: 70px;
+    width: 100%;
+    font-family: sans-serif;
+    margin: 150px 0px 0px -50px;
+font-weight: lighter;
+}
+.image1-cont{
+    margin-top: 700px;
+}
+.icons4d{
+    display: none;
+}
+.icon-1,.icon-2,.icon-3,.icon-4,.icon-5{
+    width: 150px;
+    height: 150px;
+}
+.icon-2{
+    margin: -600px 0px 0px -100px;
+    display: none;
+}
+.icon-3{
+    margin: -850px 0px 0px 650px;
+}
+.icon-4{
+    margin: -325px 0px 0px 650px;
+
+}
+.icon-5{
+    margin: -585px 0px 0px 870px;
+
+}
+.icon-1{
+    display: none;
+}
+.mb-line1{
+    width: 3px;
+    height: 150px;
+    background: linear-gradient(to bottom, indigo, purple);
+    position: absolute;
+transform: rotate(140deg);
+    margin: -720px 0px 0px 832px ;
+    border-radius: 25px;
+    box-shadow: 5px 25px 35px indigo;
+}
+.mb-line2{
+    width: 3px;
+    height: 150px;
+    background: linear-gradient(to bottom, indigo, purple);
+    position: absolute;
+transform: rotate(220deg);
+    margin: -445px 0px 0px 835px ;
+    border-radius: 25px;
+    box-shadow: 5px 25px 35px indigo;
+}
+
+.tem{
+    margin-top: 500px;
+}
+
+
+
+
+
+
+}

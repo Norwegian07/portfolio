@@ -51,6 +51,7 @@ html,body{
     height: 100p;
     margin: -180px 0px 0px 800px;
     position: absolute;
+    display: block;
 }
 .icon-2{
     margin: -280px 0px 0px 870px;
@@ -67,6 +68,7 @@ html,body{
     width: 650px;
     height: 500px;
     position: absolute;
+    display: block;
     margin: -400px 0px 0px 600px;
 }
 /* ================== */
