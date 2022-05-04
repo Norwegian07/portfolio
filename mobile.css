@@ -3,33 +3,38 @@
     font-size: 55px;
 }
 .navmain-div {
-    margin: 80px 0px 0px 250px;
+    margin: 80px 0px 0px 120px;
     width: 100%;
+  
 }
 .about{
     text-align: center;
     font-size: 60px;
+    margin: 150px 0px 0px 50px;
+}
+h1{
+    margin: 0px 0px 0px -80px;
 }
 .text{
     font-size: 80px;
     position: absolute;
-    margin: -50px 0px 0px 230px;
+    margin: 50px 0px 0px 200px;
 }
 .desigination{
     font-size: 50px;
     position: absolute;
-    margin: 50px 0px 0px 170px;
+    margin: 150px 0px 0px 170px;
 }
 .text1{
 position: absolute;
     font-size: 70px;
     width: 100%;
     font-family: sans-serif;
-    margin: 150px 0px 0px -50px;
+    margin: 250px 0px 0px -50px;
 font-weight: lighter;
 }
 .image1-cont{
-    margin-top: 700px;
+    margin: 700px 0px 0px 150px;
 }
 .icons4d{
     display: none;
@@ -57,6 +62,7 @@ font-weight: lighter;
     display: none;
 }
 .mb-line1{
+    display: block;
     width: 3px;
     height: 150px;
     background: linear-gradient(to bottom, indigo, purple);
@@ -67,6 +73,7 @@ transform: rotate(140deg);
     box-shadow: 5px 25px 35px indigo;
 }
 .mb-line2{
+    display: block;
     width: 3px;
     height: 150px;
     background: linear-gradient(to bottom, indigo, purple);
@@ -76,14 +83,42 @@ transform: rotate(220deg);
     border-radius: 25px;
     box-shadow: 5px 25px 35px indigo;
 }
-
-.tem{
-    margin-top: 500px;
+/* =========================================== */
+.icon-9,.icon-10,.icon-11,.line1,.line2{
+    display: none;
 }
-
-
-
-
-
+.text3{
+    margin: 0px 0px 0px 150px;
+    font-size: 100px;
+    width: 100%;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+.text4{
+    margin: 130px 0px 0px 170px;
+    font-size: 50px;
+}
+.skills{
+    position: absolute;
+    margin: 350px 0px 0px 100px;
+}
+.html,.js,.learning{
+    width: 1000px;
+    height: 450px;
+    border: 3px solid white;
+}
+.icon-6,.icon-7,.icon-8{
+    width: 150px;
+    height: 150px;
+}
+.icon-6{
+    margin: 5px 0px 0px 840px;
+}
+.icon-8{
+    margin: 10px 0px 0px 830px;
+}
+.html:hover,.js:hover,.learning:hover{
+    box-shadow: -5px -10px 40px rgba(111, 0, 166, 0.968);
+}
 
 }

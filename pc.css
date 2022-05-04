@@ -72,6 +72,9 @@ html,body{
     margin: -400px 0px 0px 600px;
 }
 /* ================== */
+.icon-9,.icon-10,.icon-11,.line1,.line2{
+    display: block;
+}
 .skills{
     margin: 200px 0px 0px 850px ;
     height: 1000px;
@@ -299,5 +302,7 @@ padding: 0px 0px 30px 30px;
     padding-top: 100px;
     position: absolute;
 }
-
+.mb-line1,.mb-line2{
+    display: none;
+}
 
